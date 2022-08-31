@@ -6,4 +6,6 @@ displays content list of a current directory.
 2. there is no place like home.
 written the script that changes working directory to home.
 3. the long format
-listed files that are in the working directory with a long format.
+endlisted files that are in the working directory with a long format.
+4. Hidden files
+list hidden files in the working directory.

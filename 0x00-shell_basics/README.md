@@ -1,1 +1,6 @@
 details of the executable files
+0. where i am
+this file prints the current directory of a file.
+1. whats in there
+displays content list of a current directory.
+2. there is no place like home.

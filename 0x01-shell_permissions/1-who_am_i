@@ -1,2 +1,2 @@
 #!/bin/bash
-id -u, --usr
+id -u, --user
